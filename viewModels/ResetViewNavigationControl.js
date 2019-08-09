@@ -24,7 +24,7 @@ var ResetViewNavigationControl = function (terria) {
    * This property is observable.
    * @type {String}
    */
-  this.name = '重置视图'
+  this.name = 'Reset'
   this.navigationLocked = false
 
   /**
