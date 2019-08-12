@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richard1015/cesium-navigation-es6.git"
+    "url": "git+https://github.com/sadwik/cesium-navigation-es6.git"
   },
   "dependencies": {
     "cesium": "^1.52.0",
@@ -24,7 +24,7 @@
   "author": "richard",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richard1015/cesium-navigation-es6/issues"
+    "url": "https://github.com/sadwik/cesium-navigation-es6/issues"
   },
-  "homepage": "https://github.com/richard1015/cesium-navigation-es6#readme"
+  "homepage": "https://github.com/sadwik/cesium-navigation-es6#readme"
 }
