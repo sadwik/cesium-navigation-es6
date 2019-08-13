@@ -99,7 +99,7 @@ function initialize (viewerCesiumWidget, options) {
   // this.navigationDiv.setAttribute("id", "navigationDiv");
 
   // Register custom Knockout.js bindings.  If you're not using the TerriaJS user interface, you can remove this.
-  registerKnockoutBindings()
+  //registerKnockoutBindings()
 
   if (!defined(this.terria.options.enableDistanceLegend) || this.terria.options.enableDistanceLegend) {
     this.distanceLegendDiv = document.createElement('div')
